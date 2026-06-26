@@ -1,3 +1,3 @@
-# Practica_Merge
+# Practica Merge
 
 Este notebook trabaja con datos de la plataforma de e-commerce brasileña Olist y realiza una integración de tablas para combinar información que originalmente estaba separada en diferentes archivos. El proceso consistió en cargar cuatro archivos CSV que contenían información sobre pedidos, clientes, productos vendidos en cada pedido y el catálogo completo de productos. Luego se fusionaron las tablas relacionadas: se unieron los pedidos con los clientes usando el ID del cliente, y también se unieron los productos vendidos con el catálogo de productos usando el ID del producto. Finalmente, se analizaron los resultados para entender qué información nueva se había obtenido y cómo podría utilizarse en análisis posteriores
